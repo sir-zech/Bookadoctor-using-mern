@@ -31,10 +31,10 @@ To better understand our code structure and how the application functions, you c
 ## Features
 
 - **User Registration & Authentication:** Secure user login and registration process.
-- **Doctor Profile Management:** Doctors can manage their profiles and set availability.
+- **Doctor Profile Management:** Doctors can manage their profiles, set their availability, and apply to be listed on the platform to receive patient appointments..
 - **Appointment Booking:** Patients can browse through doctors, view their profiles, and book available appointment slots.
 - **Real-Time Notifications:** Users receive notifications for appointment confirmations or changes.
-- **Admin Dashboard:** Admin access to manage users and doctors, view all bookings, and oversee the system's functionality.
+- **Admin Dashboard:** Admin access to manage users and doctors(approve doctors/delete users/block doctors/unblock doctors, view all bookings, and oversee the system's functionality.
 
 ## Tech Stack
 
@@ -86,11 +86,15 @@ To better understand our code structure and how the application functions, you c
 The app should now be running at `http://localhost:3000` (frontend) and `Server in running on port 5000` (backend).
 
 ## Usage
+1. **Register/Login:** New users can sign up to create an account, while returning users can log in seamlessly.
 
-1. **Register/Login:** New users can sign up and create an account, while returning users can log in.
-2. **Searcg Doctors:** Browse the list of doctors and filter based on specialization, location, etc.
-3. **Book Appointments:** Select an available time slot and confirm your appointment.
-4. **Manage Profile:** Doctors can update their availability, and users can view or manage their booking history.
+2. **Search Doctors:** Browse the list of doctors by specialization, location, and other criteria for personalized results.
+
+3. **Book Appointments:** Select a preferred time slot, confirm the appointment, and receive notifications.
+
+4. **Manage Profile:** Doctors can update their profiles, adjust availability, and apply to be listed on the platform. Users can view and manage their booking history and profile details.
+
+5. **Admin Oversight:** Administrators can monitor the system, approve doctor applications, and make necessary adjustments to ensure smooth operation.
 
 
 ## Team
