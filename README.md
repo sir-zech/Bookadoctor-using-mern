@@ -7,7 +7,6 @@ Book a Doctor is a MERN (MongoDB, Express, React, Node.js) Stack application for
 - [Code Structure & Demo Videos](#code-structure--demo-videos)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Team](#team)
 
